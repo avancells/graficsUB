@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/fshader1.glsl</file>
+        <file>resources/vshader1.glsl</file>
+        <file>resources/models/sphere0.obj</file>
+        <file>resources/vshaderGouraud.glsl</file>
+        <file>resources/fshaderGouraud.glsl</file>
+        <file>resources/vshaderPhong.glsl</file>
+        <file>resources/fshaderPhong.glsl</file>
+        <file>resources/vshaderToon.glsl</file>
+        <file>resources/fshaderToon.glsl</file>
+        <file>resources/fshaderPhongTex.glsl</file>
+        <file>resources/vshaderPhongTex.glsl</file>
+        <file>resources/vshaderPhongIndirecte.glsl</file>
+        <file>resources/fshaderPhongIndirecte.glsl</file>
+        <file>resources/models/capsule.obj</file>
+        <file>resources/other models/LandLord_diffuse.png</file>
+        <file>resources/other models/landlord.obj</file>
+        <file>resources/other models/landlord.mtl</file>
+        <file>resources/models/Monkey.mtl</file>
+        <file>resources/models/Monkey.obj</file>
+        <file>resources/models/MonkeyTex.mtl</file>
+        <file>resources/models/MonkeyTex.obj</file>
+        <file>resources/models/README.fst</file>
+        <file>resources/models/README.fst~</file>
+        <file>resources/models/sphere0.mtl</file>
+        <file>resources/models/sphere1.mtl</file>
+        <file>resources/textures/capsule0.jpg</file>
+        <file>resources/other models/nicolas.png</file>
+        <file>resources/other models/shrekBody.obj</file>
+        <file>resources/other models/shrekRoba.obj</file>
+        <file>resources/other models/shrekshirt.png</file>
+        <file>resources/other models/Shrek.png</file>
+        <file>resources/other models/buscemi.jpeg</file>
+    </qresource>
+</RCC>
